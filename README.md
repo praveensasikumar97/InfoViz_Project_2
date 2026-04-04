@@ -1,8 +1,6 @@
-Local access: run `npm install` and then `npm run dev`, then open the localhost URL printed by Vite in your browser.
+# Case B (Gapminder Bubble Chart)
 
-# Phase 2 README
-
-This submission redesigns **Case B: the Gapminder bubble chart** from the assignment brief.
+**Live:** [infoviz.praveensasikumar.com](https://infoviz.praveensasikumar.com) | **Local:** run `npm install` and then `npm run dev`, then open the localhost URL printed by Vite in your browser.
 
 ## Tech stack
 
@@ -14,7 +12,7 @@ This submission redesigns **Case B: the Gapminder bubble chart** from the assign
 | UI utilities | **shadcn/ui** primitives included in the project template |
 | Data files | Processed **CSV** and **JSON** based on the public Gapminder teaching dataset |
 
-## Setup and dependencies
+## Dependencies and setup
 
 The project uses the dependencies already declared in `package.json`. No extra services, API keys, databases, or backend setup are required for the assignment submission.
 
