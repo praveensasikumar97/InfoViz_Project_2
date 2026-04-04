@@ -37,4 +37,4 @@ After the server starts, open the local address printed by Vite in your browser.
 
 ## Notes on the redesign
 
-The redesign keeps the same core Gapminder variables—**income**, **life expectancy**, **population**, **region**, and **year**—but changes the interface argument. Instead of relying on autoplay animation as the first reading mode, it opens with comparison-first small multiples, exposes the **log/linear** income-scale decision, and foregrounds a short methodological note about the five-year sampled dataset used in the implementation.
+The redesign keeps the same core Gapminder variables-**income**, **life expectancy**, **population**, **region**, and **year**-but changes the interface argument. Instead of relying on autoplay animation as the first reading mode, it opens with comparison-first small multiples, exposes the **log/linear** income-scale decision, and foregrounds a short methodological note about the five-year sampled dataset used in the implementation.
