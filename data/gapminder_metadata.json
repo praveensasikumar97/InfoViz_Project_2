@@ -1,0 +1,78 @@
+{
+  "row_count": 1704,
+  "country_count": 142,
+  "continent_count": 5,
+  "years": [
+    1952,
+    1957,
+    1962,
+    1967,
+    1972,
+    1977,
+    1982,
+    1987,
+    1992,
+    1997,
+    2002,
+    2007
+  ],
+  "continents": [
+    "Africa",
+    "Americas",
+    "Asia",
+    "Europe",
+    "Oceania"
+  ],
+  "sampling_note": "Observations are sampled every five years from 1952 to 2007 in this standard teaching subset. The redesign treats time as discrete historical states rather than continuous measurement.",
+  "ranges": {
+    "lifeExp": {
+      "min": 23.599,
+      "max": 82.603,
+      "median": 60.712
+    },
+    "gdpPercap": {
+      "min": 241.166,
+      "max": 113523.133,
+      "median": 3531.847
+    },
+    "pop": {
+      "min": 60011,
+      "max": 1318683096,
+      "median": 7023595
+    }
+  },
+  "counts_by_year": {
+    "1952": 142,
+    "1957": 142,
+    "1962": 142,
+    "1967": 142,
+    "1972": 142,
+    "1977": 142,
+    "1982": 142,
+    "1987": 142,
+    "1992": 142,
+    "1997": 142,
+    "2002": 142,
+    "2007": 142
+  },
+  "selected_years": [
+    1952,
+    1972,
+    1992,
+    2007
+  ],
+  "suggested_countries": [
+    "Afghanistan",
+    "Brazil",
+    "China",
+    "India",
+    "Japan",
+    "Nigeria",
+    "United States"
+  ],
+  "source": {
+    "dataset_url": "https://raw.githubusercontent.com/plotly/datasets/master/gapminder_with_codes.csv",
+    "dataset_page": "https://github.com/plotly/datasets/blob/master/gapminder_with_codes.csv",
+    "original_context": "Plotly teaching dataset derived from the classic Gapminder country-year subset"
+  }
+}
