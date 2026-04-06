@@ -32,8 +32,8 @@ After the server starts, open the local address printed by Vite in your browser.
 | `README.md` | Documents the selected case, stack, and local run instructions |
 | `src/` | Contains the frontend source code for the redesign |
 | `data/` | Contains the processed dataset and metadata used in the redesign |
-| `phase1_diagnosis.pdf` | Structured diagnosis for Case A and Case B |
-| `phase3_rationale.pdf` | Self-contained design rationale and self-audit for the redesign |
+| `phase1_Structured Diagnosis.pdf` | Structured diagnosis for Case A and Case B |
+| `phase3_Info Viz Project.pdf` | Self-contained design rationale and self-audit for the redesign |
 
 ## Notes on the redesign
 
