@@ -33,7 +33,7 @@ After the server starts, open the local address printed by Vite in your browser.
 | `src/` | Contains the frontend source code for the redesign |
 | `data/` | Contains the processed dataset and metadata used in the redesign |
 | `phase1_Structured Diagnosis.pdf` | Structured diagnosis for Case A and Case B |
-| `phase3_Info Viz Project.pdf` | Self-contained design rationale and self-audit for the redesign |
+| `phase3_Info Viz Project 2.pdf` | Self-contained design rationale and self-audit for the redesign |
 
 ## Notes on the redesign
 
